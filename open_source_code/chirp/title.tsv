@@ -1,0 +1,70 @@
+Only identified by site	Reverse	Potential contaminant	Peptides	Razor + unique peptides	Unique peptides	Sequence coverage [%]	Unique + razor sequence coverage [%]	Unique sequence coverage [%]	Mol. weight [kDa]	Q-value	Score	Intensity	MS/MS count	Peptide counts (all)	Peptide counts (razor+unique)	Peptide counts (unique)	Fasta headers	Number of proteins	Peptides CoV-D1-1	Peptides CoV-D1-2	Peptides CoV-D1-3	Peptides CoV-D2-1	Peptides CoV-D2-2	Peptides CoV-D2-3	Peptides DV1	Peptides DV2	Peptides DV3	Peptides FlaviC1	Peptides FlaviC2	Peptides FlaviC3	Peptides Mock1	Peptides Mock2	Peptides Mock3	Peptides RV	Peptides RV_C	Peptides ZV1	Peptides ZV2	Peptides ZV3	Razor + unique peptides CoV-D1-1	Razor + unique peptides CoV-D1-2	Razor + unique peptides CoV-D1-3	Razor + unique peptides CoV-D2-1	Razor + unique peptides CoV-D2-2	Razor + unique peptides CoV-D2-3	Razor + unique peptides DV1	Razor + unique peptides DV2	Razor + unique peptides DV3	Razor + unique peptides FlaviC1	Razor + unique peptides FlaviC2	Razor + unique peptides FlaviC3	Razor + unique peptides Mock1	Razor + unique peptides Mock2	Razor + unique peptides Mock3	Razor + unique peptides RV	Razor + unique peptides RV_C	Razor + unique peptides ZV1	Razor + unique peptides ZV2	Razor + unique peptides ZV3	Unique peptides CoV-D1-1	Unique peptides CoV-D1-2	Unique peptides CoV-D1-3	Unique peptides CoV-D2-1	Unique peptides CoV-D2-2	Unique peptides CoV-D2-3	Unique peptides DV1	Unique peptides DV2	Unique peptides DV3	Unique peptides FlaviC1	Unique peptides FlaviC2	Unique peptides FlaviC3	Unique peptides Mock1	Unique peptides Mock2	Unique peptides Mock3	Unique peptides RV	Unique peptides RV_C	Unique peptides ZV1	Unique peptides ZV2	Unique peptides ZV3	Sequence length	Sequence lengths	Intensity CoV-D1-1	Intensity CoV-D1-2	Intensity CoV-D1-3	Intensity CoV-D2-1	Intensity CoV-D2-2	Intensity CoV-D2-3	Intensity DV1	Intensity DV2	Intensity DV3	Intensity FlaviC1	Intensity FlaviC2	Intensity FlaviC3	Intensity Mock1	Intensity Mock2	Intensity Mock3	Intensity RV	Intensity RV_C	Intensity ZV1	Intensity ZV2	Intensity ZV3	LFQ intensity CoV-D1-1	LFQ intensity CoV-D1-2	LFQ intensity CoV-D1-3	LFQ intensity CoV-D2-1	LFQ intensity CoV-D2-2	LFQ intensity CoV-D2-3	LFQ intensity DV1	LFQ intensity DV2	LFQ intensity DV3	LFQ intensity FlaviC1	LFQ intensity FlaviC2	LFQ intensity FlaviC3	LFQ intensity Mock1	LFQ intensity Mock2	LFQ intensity Mock3	LFQ intensity RV	LFQ intensity RV_C	LFQ intensity ZV1	LFQ intensity ZV2	LFQ intensity ZV3	Protein IDs	Majority protein IDs
+Only identified by site	Reverse	Potential contaminant	Peptides	Razor + unique peptides	Unique peptides	Sequence coverage [%]	Unique + razor sequence coverage [%]	Unique sequence coverage [%]	Mol. weight [kDa]	Q-value	Score	Intensity	MS/MS count	Peptide counts (all)	Peptide counts (razor+unique)	Peptide counts (unique)	Fasta headers	Number of proteins	Peptides V-Day1-1	Peptides V-Day1-2	Peptides V-Day1-3	Peptides V-Day2-1	Peptides V-Day2-2	Peptides V-Day2-3	Peptides V-Mock1	Peptides V-Mock2	Peptides V-Mock3	Razor + unique peptides V-Day1-1	Razor + unique peptides V-Day1-2	Razor + unique peptides V-Day1-3	Razor + unique peptides V-Day2-1	Razor + unique peptides V-Day2-2	Razor + unique peptides V-Day2-3	Razor + unique peptides V-Mock1	Razor + unique peptides V-Mock2	Razor + unique peptides V-Mock3	Unique peptides V-Day1-1	Unique peptides V-Day1-2	Unique peptides V-Day1-3	Unique peptides V-Day2-1	Unique peptides V-Day2-2	Unique peptides V-Day2-3	Unique peptides V-Mock1	Unique peptides V-Mock2	Unique peptides V-Mock3	Sequence length	Sequence lengths	Intensity V-Day1-1	Intensity V-Day1-2	Intensity V-Day1-3	Intensity V-Day2-1	Intensity V-Day2-2	Intensity V-Day2-3	Intensity V-Mock1	Intensity V-Mock2	Intensity V-Mock3	LFQ intensity V-Day1-1	LFQ intensity V-Day1-2	LFQ intensity V-Day1-3	LFQ intensity V-Day2-1	LFQ intensity V-Day2-2	LFQ intensity V-Day2-3	LFQ intensity V-Mock1	LFQ intensity V-Mock2	LFQ intensity V-Mock3	Protein IDs	Majority protein IDs
+Only identified by site	Only identified by site
+Reverse	Reverse
+Potential contaminant	Potential contaminant
+Peptides	Peptides
+Razor + unique peptides	Razor + unique peptides
+Unique peptides	Unique peptides
+Sequence coverage [%]	Sequence coverage [%]
+Unique + razor sequence coverage [%]	Unique + razor sequence coverage [%]
+Unique sequence coverage [%]	Unique sequence coverage [%]
+Mol. weight [kDa]	Mol. weight [kDa]
+Q-value	Q-value
+Score	Score
+Intensity	Intensity
+MS/MS count	MS/MS count
+Peptide counts (all)	Peptide counts (all)
+Peptide counts (razor+unique)	Peptide counts (razor+unique)
+Peptide counts (unique)	Peptide counts (unique)
+Fasta headers	Fasta headers
+Number of proteins	Number of proteins
+Peptides CoV-D1-1	Peptides V-Day1-1
+Peptides CoV-D1-2	Peptides V-Day1-2
+Peptides CoV-D1-3	Peptides V-Day1-3
+Peptides CoV-D2-1	Peptides V-Day2-1
+Peptides CoV-D2-2	Peptides V-Day2-2
+Peptides CoV-D2-3	Peptides V-Day2-3
+Peptides DV1	Peptides V-Mock1
+Peptides DV2	Peptides V-Mock2
+Peptides DV3	Peptides V-Mock3
+Peptides FlaviC1	Razor + unique peptides V-Day1-1
+Peptides FlaviC2	Razor + unique peptides V-Day1-2
+Peptides FlaviC3	Razor + unique peptides V-Day1-3
+Peptides Mock1	Razor + unique peptides V-Day2-1
+Peptides Mock2	Razor + unique peptides V-Day2-2
+Peptides Mock3	Razor + unique peptides V-Day2-3
+Peptides RV	Razor + unique peptides V-Mock1
+Peptides RV_C	Razor + unique peptides V-Mock2
+Peptides ZV1	Razor + unique peptides V-Mock3
+Peptides ZV2	Unique peptides V-Day1-1
+Peptides ZV3	Unique peptides V-Day1-2
+Razor + unique peptides CoV-D1-1	Unique peptides V-Day1-3
+Razor + unique peptides CoV-D1-2	Unique peptides V-Day2-1
+Razor + unique peptides CoV-D1-3	Unique peptides V-Day2-2
+Razor + unique peptides CoV-D2-1	Unique peptides V-Day2-3
+Razor + unique peptides CoV-D2-2	Unique peptides V-Mock1
+Razor + unique peptides CoV-D2-3	Unique peptides V-Mock2
+Razor + unique peptides DV1	Unique peptides V-Mock3
+Razor + unique peptides DV2	Sequence length
+Razor + unique peptides DV3	Sequence lengths
+Razor + unique peptides FlaviC1	Intensity V-Day1-1
+Razor + unique peptides FlaviC2	Intensity V-Day1-2
+Razor + unique peptides FlaviC3	Intensity V-Day1-3
+Razor + unique peptides Mock1	Intensity V-Day2-1
+Razor + unique peptides Mock2	Intensity V-Day2-2
+Razor + unique peptides Mock3	Intensity V-Day2-3
+Razor + unique peptides RV	Intensity V-Mock1
+Razor + unique peptides RV_C	Intensity V-Mock2
+Razor + unique peptides ZV1	Intensity V-Mock3
+Razor + unique peptides ZV2	LFQ intensity V-Day1-1
+Razor + unique peptides ZV3	LFQ intensity V-Day1-2
+Unique peptides CoV-D1-1	LFQ intensity V-Day1-3
+Unique peptides CoV-D1-2	LFQ intensity V-Day2-1
+Unique peptides CoV-D1-3	LFQ intensity V-Day2-2
+Unique peptides CoV-D2-1	LFQ intensity V-Day2-3
+Unique peptides CoV-D2-2	LFQ intensity V-Mock1
+Unique peptides CoV-D2-3	LFQ intensity V-Mock2
+Unique peptides DV1	LFQ intensity V-Mock3
+Unique peptides DV2	Protein IDs
+Unique peptides DV3	Majority protein IDs
