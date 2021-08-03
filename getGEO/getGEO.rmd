@@ -1,0 +1,56 @@
+<!--
+  * Author: Chen Jun  
+  * Author Email: 1170101471@qq.com  
+  * Created Date: 2021-07-31, 11:19:02  
+  * Modified By: Chen Jun
+  * Last Modified: 2021-08-02, 09:57:48
+-->
+
+```{r}
+library(GEOquery)
+
+GSE.No <- "GSE167341"
+
+cat("GSE.No: ", GSE.No, "\n")
+
+# 2) 获取GEO数据（从网络下载）
+gse <- getGEO(GSE.No, destdir = ".", GSEMatrix = TRUE, getGPL = T, AnnotGPL = T)
+# gse2 <- getGEO(filename = "./03.Series_Matrix_file/GSE12452_series_matrix.txt.gz", GSEMatrix = TRUE, getGPL = T, AnnotGPL = T)
+# 看看表达矩阵长啥样
+# gse[[1]]@assayData[["exprs"]]
+# dim(gse[[1]]@assayData[["exprs"]])
+```
+
+```{r}
+length(gse)
+gse[[1]]@annotation
+```
+
+```{r}
+all_meta = NULL
+for (i in 1:length(gse)) {
+  # i = 1
+  # 检查pdata格式挑选分组方案
+  meta <- pData(phenoData(gse[[i]]))
+  colnames(meta)
+  # meta$
+  meta[c(1, nrow(meta)), c("title", "source_name_ch1", "characteristics_ch1")]
+  table(meta["source_name_ch1"])
+  table(meta["characteristics_ch1"])
+  meta2 = cbind(annotation=gse[[i]]@annotation, meta)
+  print(dim(meta2))
+  # if (is.null(all_meta)){
+  #   all_meta = meta2
+  # } else{
+  #   all_meta = rbind(all_meta, meta2)
+  # }
+  write.table(meta2, paste0("meta_", gse[[i]]@annotation, ".xls"), sep = "\t", quote = F, row.names = F)
+  # pdata <- meta[, c("geo_accession", "characteristics_ch1")]
+  # dim(pdata)
+  # # pdata[1:25,2] <- "NPC"
+  # # pdata[26:33,2] <- "no-NPC"
+  # 
+  # pdata[c(1, nrow(pdata)), 2]
+}
+all_meta
+```
